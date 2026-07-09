@@ -1,0 +1,208 @@
+{
+  "eyebrow": "aloftkarakoy.com",
+  "title": "W XYZ®",
+  "tagline": "Eat. Drink. Different.",
+  "subtitle": "Aloft Istanbul Karaköy",
+  "currency": "TL",
+  "footerBrand": "aloft by Marriott — Istanbul Karaköy",
+  "footer": "Please inform our staff of any allergies.",
+  "categories": [
+    {
+      "name": "Cocktails by Aloft",
+      "items": [
+        {
+          "name": "BOOMBOX 1986",
+          "story": "Originating in the '70s, it was the mid-'80s that threw hip-hop into the mainstream and brought it onto the streets in full stereo with the birth of the first CD-playing boombox.",
+          "desc": "Bacardi 8yrs, Jamaican Rum, Pineapple, Guava syrup, Hibiscus, Mango, Lime, Angostura",
+          "style": "Tiki – Spiced – Blended",
+          "price": "XXX"
+        },
+        {
+          "name": "RADIO STAR 1981",
+          "story": "The Arrival of Music Television: on Saturday 1st August 1981, America launched the world's first music television channel with the words \"Ladies and gentlemen, rock and roll\".",
+          "desc": "Chivas Regal 12 yrs, DOM Benedictine, Pineapple juice, Angostura bitters",
+          "style": "Tropical – Herbal – Zingy",
+          "price": "XXX"
+        },
+        {
+          "name": "DIGITAL SPRITZ 2008",
+          "story": "The Online Music Revolution: from the peer-to-peer file sharing of the late 90's through to the dawn of Internet radio and streaming services, 2008 saw the advent of subscription based digital music services that would share the world's music library with listeners everywhere.",
+          "desc": "Lillet Blanc, Campari, Apricot Puree, Prosecco, Soda, Monin Pomegranate syrup",
+          "style": "Light – Fruity – Refreshing",
+          "price": "XXX"
+        }
+      ]
+    },
+    {
+      "name": "International Cocktails",
+      "items": [
+        { "name": "Aperol Spritz", "desc": "Aperol, Prosecco, Soda", "price": "XXX" },
+        { "name": "Daiquiri", "desc": "Captain Morgan's White Rum, Lime, Gomme Syrup", "price": "XXX" },
+        { "name": "Manhattan", "desc": "Woodford Reserve, Vermouth, Angostura Bitter", "price": "XXX" },
+        { "name": "Mojito", "desc": "Captain Morgan's White Rum, Lime, Brown Sugar, Mint, Soda", "price": "XXX" },
+        { "name": "Negroni", "desc": "Beefeater Gin, Campari, Vermouth", "price": "XXX" },
+        { "name": "Old Fashioned", "desc": "Woodford Reserve, Bitters, Gomme syrup", "price": "XXX" },
+        { "name": "Tom Collins", "desc": "London Dry Gin, Lemon Juice, Soda", "price": "XXX" },
+        { "name": "Pornstar Martini", "desc": "Vanilla Infused Vodka, Passoa, Passionfruit puree, Prosecco", "price": "XXX" },
+        { "name": "Long Island Ice Tea", "desc": "Absolut, Cointreau, Captain Morgan White Rum, Olmeca Tequila, Beefeater, Cola, Lemon", "price": "XXX" },
+        { "name": "Espresso Martini", "desc": "Absolut, Kahlua, Espresso Shot, Gomme syrup", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "White Wines",
+      "dual": true, "col1": "Glass", "col2": "Bottle",
+      "items": [
+        { "name": "Ancyra Sauvignon Blanc 2024", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Selection Narince – Emir 2022", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Egeo Chardonnay 2024", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Sarafin Sauvignon Blanc", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Chamlıja – Riesling 2025", "glass": "XXX", "bottle": "XXX" }
+      ]
+    },
+    {
+      "name": "Red Wines",
+      "dual": true, "col1": "Glass", "col2": "Bottle",
+      "items": [
+        { "name": "Ancyra Merlot 2025", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Suvla – Cabernet Sauvignon 2024", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Chamlija – Pinot Noir 2023", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Selection Öküzgözü – Boğazkere 2022", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Sarafin Cab. Sauvignon", "glass": "XXX", "bottle": "XXX" }
+      ]
+    },
+    {
+      "name": "Rose Wines & Blush",
+      "dual": true, "col1": "Glass", "col2": "Bottle",
+      "items": [
+        { "name": "Villa Doluca – Rose", "glass": "XXX", "bottle": "XXX" },
+        { "name": "Kocabağ Kapadokya Blush", "glass": "XXX", "bottle": "XXX" }
+      ]
+    },
+    {
+      "name": "Sparkling Wines & Champagne",
+      "items": [
+        { "name": "Belussi Prosecco", "price": "XXX" },
+        { "name": "Moet Chandon", "price": "XXX" },
+        { "name": "Moet Chandon Rose", "price": "XXX" },
+        { "name": "Bellinger Brut", "price": "XXX" },
+        { "name": "Bellinger Rose", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Whiskey",
+      "items": [
+        { "name": "Ballantine's Finest", "price": "XXX" },
+        { "name": "Chivas Regal 12 yrs", "price": "XXX" },
+        { "name": "Chivas Regal 18 yrs", "price": "XXX" },
+        { "name": "Glenlivet", "price": "XXX" },
+        { "name": "Glenlivet 15 YO", "price": "XXX" },
+        { "name": "Glenlivet 18 YO", "price": "XXX" },
+        { "name": "Jack Daniel's", "price": "XXX" },
+        { "name": "Jim Beam", "price": "XXX" },
+        { "name": "Woodford Reserve", "price": "XXX" },
+        { "name": "Woodford Rye", "price": "XXX" },
+        { "name": "JW Red Label", "price": "XXX" },
+        { "name": "JW Black Label", "price": "XXX" },
+        { "name": "JW Yellow Label", "price": "XXX" },
+        { "name": "JW Blue Label", "price": "XXX" },
+        { "name": "Jameson", "price": "XXX" },
+        { "name": "Jameson Caskmates", "price": "XXX" },
+        { "name": "Glenfiddich 12 yrs", "price": "XXX" },
+        { "name": "Glenfiddich 15 yrs", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Liqueur",
+      "items": [
+        { "name": "Limoncello", "price": "XXX" },
+        { "name": "Bailey's", "price": "XXX" },
+        { "name": "Kahlua", "price": "XXX" },
+        { "name": "Ricard", "price": "XXX" },
+        { "name": "Malibu", "price": "XXX" },
+        { "name": "Amaretto", "price": "XXX" },
+        { "name": "St. Germain", "price": "XXX" },
+        { "name": "Cointreau", "price": "XXX" },
+        { "name": "DOM Benedictine", "price": "XXX" },
+        { "name": "Jägermeister", "price": "XXX" },
+        { "name": "Safari", "price": "XXX" },
+        { "name": "Martini Rosso", "price": "XXX" },
+        { "name": "Martini Bianco", "price": "XXX" },
+        { "name": "Martini Extra Dry", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Vodka",
+      "items": [
+        { "name": "Absolut", "price": "XXX" },
+        { "name": "Absolut Citron", "price": "XXX" },
+        { "name": "Smirnoff", "price": "XXX" },
+        { "name": "Beluga", "price": "XXX" },
+        { "name": "Beluga Gold", "price": "XXX" },
+        { "name": "Kauffman", "price": "XXX" },
+        { "name": "Tito's", "price": "XXX" },
+        { "name": "Grey Goose", "price": "XXX" },
+        { "name": "Belvedere", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Gin",
+      "items": [
+        { "name": "Beefeater", "price": "XXX" },
+        { "name": "Beefeater 24", "price": "XXX" },
+        { "name": "Plymouth", "price": "XXX" },
+        { "name": "Bombay Sapphire", "price": "XXX" },
+        { "name": "Roku", "price": "XXX" },
+        { "name": "Monkey 47", "price": "XXX" },
+        { "name": "Hendrick's", "price": "XXX" },
+        { "name": "Tanqueray", "price": "XXX" },
+        { "name": "Tanqueray 10", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Tequila",
+      "items": [
+        { "name": "Olmeca Blanco", "price": "XXX" },
+        { "name": "Olmeca Reposado", "price": "XXX" },
+        { "name": "Don Julio Silver", "price": "XXX" },
+        { "name": "Don Julio Reposado", "price": "XXX" },
+        { "name": "Patron Silver", "price": "XXX" },
+        { "name": "Patron Reposado", "price": "XXX" },
+        { "name": "Casamigos Tequila", "price": "XXX" },
+        { "name": "Ilegal Mezcal", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Rum",
+      "items": [
+        { "name": "Gosling Blanco", "price": "XXX" },
+        { "name": "Gosling Gold Seal", "price": "XXX" },
+        { "name": "Gosling Black Seal", "price": "XXX" },
+        { "name": "Bacardi Superior", "price": "XXX" },
+        { "name": "Bacardi 8 Anos", "price": "XXX" },
+        { "name": "Havana Club 3 yrs", "price": "XXX" },
+        { "name": "Captain Morgan Spiced Gold", "price": "XXX" },
+        { "name": "Cachaça", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Cognac",
+      "items": [
+        { "name": "Calvados", "price": "XXX" },
+        { "name": "Martell V.S", "price": "XXX" },
+        { "name": "Martell V.S.O.P", "price": "XXX" },
+        { "name": "Hennessy X.O", "price": "XXX" }
+      ]
+    },
+    {
+      "name": "Beer",
+      "items": [
+        { "name": "Efes Pilsen", "price": "XXX" },
+        { "name": "Efes Dark", "price": "XXX" },
+        { "name": "Efes Zero Alcohol", "price": "XXX" },
+        { "name": "Corona", "price": "XXX" },
+        { "name": "Heineken", "price": "XXX" },
+        { "name": "Strongbow – Cider", "price": "XXX" }
+      ]
+    }
+  ]
+}
